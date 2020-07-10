@@ -8,9 +8,9 @@
 
 项目由三部分构成：
 
-- > 接收数据并显示在LCD的STM32程序（即本Repo）
-- PC端进行串行通讯发送数据并与STM32进行同步的上位机Win32控制台程序
-- 对图像数据进行编码及压缩的Win32控制台程序
+- > [接收数据并显示在LCD的STM32程序（即本Repo）](https://github.com/ChnTamap/BadAppleUART_STM32)
+- [PC端进行串行通讯发送数据并与STM32进行同步的上位机Win32控制台程序](https://github.com/ChnTamap/BadApple_UART_Serial)
+- [对图像数据进行编码及压缩的Win32控制台程序](https://github.com/ChnTamap/BadApple_UART_BuildData)
 
 # 性能
 
