@@ -1,6 +1,6 @@
 <h1>基于GXCT嵌入式STM32开发板的BadApple个人项目</h1>
 
-![IMG](img.jpg)
+![IMG](./img.png)
 
 # 介绍
 
